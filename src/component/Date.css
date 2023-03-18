@@ -1,0 +1,10 @@
+@media (min-width: 675px) {
+  .article-info {
+  order: -1;
+}
+}
+
+.article-read-more,
+.article-info {
+  font-size: .875rem;
+}
